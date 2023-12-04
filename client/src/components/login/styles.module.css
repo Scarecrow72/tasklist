@@ -1,0 +1,21 @@
+.login{
+    height: 50vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.loginForm {
+    width: 200px;
+    border: solid 2px gray;
+    border-radius: 5px;
+}
+
+.btn {
+    margin: 10px;
+}
+
+.alert {
+    color: red;
+}

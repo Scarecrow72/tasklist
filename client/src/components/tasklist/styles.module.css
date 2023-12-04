@@ -1,0 +1,41 @@
+.tasklist {
+  display: grid;
+}
+
+.header {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid #bfbdbd;
+}
+
+.user {
+  font-style: italic;
+}
+
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+tbody {
+  overflow-y: scroll;
+}
+th {
+  padding: 0;
+  border: 1px solid gray;
+}
+
+.green {
+  color: green;
+}
+
+.red {
+  color: red;
+}
